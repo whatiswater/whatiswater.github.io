@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia;
+    
+}
+
+.headerimage {
+    width: 60%;
+    margin: auto;
+    display: block;
+    position: relative;
+}
+
+a {
+    color: navy;
+}
+
+.navlinks {
+    display: inline-block;
+    width: 20%;
+    background-color: #cccccc;
+    top: 500px;
+    margin-left: auto;
+    border-radius: 5%;
+    padding-left: 1%;
+    position: fixed;
+    
+}
+
+.content {
+    color: black;
+    margin-left: 35%;
+    margin-right: 25%;
+    width: 50%;
+    display: inline-block;
+    position: relative;
+    
+}
+
+#title {
+    margin-left: 100px;
+    color: black;
+    height: 110px;
+    width: 75%;
+
+}
