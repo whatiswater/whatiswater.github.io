@@ -49,17 +49,13 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    display: block;
     font-family: 'EB Garamond', serif;
     font-size: 14pt;
                
 }
 
 #title {
-    margin-left: 100px;
     color: black;
-    height: 110px;
     width: 75%;
-    text-align: center; 
-
-}
+    padding-top: 10%;
+    }
