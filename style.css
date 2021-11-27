@@ -4,6 +4,10 @@ body {
     
 }
 
+footer {
+    text-align: center;
+}
+
 .name {
     font-family: 'Oswald', sans-serif;
     font-size: 20pt;
@@ -41,7 +45,7 @@ a {
     text-align: right;
     font-family: 'EB Garamond', serif;
     font-size: 20pt;
-       
+        
 }
 
 .content {
