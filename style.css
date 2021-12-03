@@ -4,6 +4,10 @@ body {
     
 }
 
+header {
+    display: flex;
+}
+
 footer {
     text-align: center;
 }
