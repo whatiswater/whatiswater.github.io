@@ -4,11 +4,6 @@ body {
     
 }
 
-header {
-    display: flex;
-    width: 450px;
-}
-
 footer {
     text-align: center;
 }
