@@ -21,17 +21,12 @@ footer {
 }
 
 .name, 
-.logline {
+.logline,
+.banner {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     text-align: left;
-}
-
-.banner {
-     margin-bottom: 50px;
-     display: flex;
-    
 }
 
 a {
