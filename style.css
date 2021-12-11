@@ -66,7 +66,7 @@ a {
     }
 
 .toprow {
-    display: inline-flex;
+    display: flex;
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
@@ -75,7 +75,7 @@ a {
 }
 
 .bottomrow {
-    display: inline-flex;
+    display: flex;
     justify-content:space-between;
     max-width: 500px;
     margin-left: auto;
