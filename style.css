@@ -22,10 +22,11 @@ footer {
 
 .name, 
 .logline,
-.banner {
+{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    text-align: left;
 }
 
 .banner {
