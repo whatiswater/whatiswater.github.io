@@ -74,3 +74,13 @@ a {
     margin-right: auto;
     width: 75%;
 }
+
+.story1 {
+    background-color: rgba(17, 84, 35, 75%);
+    min-height: 200px;
+}
+
+.story2 {
+    background-color: rgba(72, 39, 112, 75%);
+    
+}
