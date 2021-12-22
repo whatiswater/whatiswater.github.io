@@ -18,10 +18,14 @@
     background-color: rgba(17, 84, 35, 75%);
     min-height: 200px;
     margin-right: 10px;
+    max-width: 200px;
+    padding: 10px;
 }
 
 .story2 {
     background-color: rgba(72, 39, 112, 75%);
     margin-right: 10px;
+    max-width: 300px;
+    padding: 10px;
     
 }
