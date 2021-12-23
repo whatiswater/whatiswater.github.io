@@ -1,11 +1,14 @@
 .toprow {
     display: flex;
+    background-image: url("/images/fiction/toprowbg.png");
     margin-left: auto;
     margin-right: auto;
     width: 75%;
     align-content: center;
     align-items: center;
     flex-wrap: wrap;
+    max-height: 25%;
+    margin-bottom: 25px;
 }
 
 .bottomrow {
@@ -14,6 +17,9 @@
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+    background-image: url("/images/fiction/bottomrowbg.png");
+    max-height: 25%;
+    min-height: 20%
 }
 
 .story1 {
