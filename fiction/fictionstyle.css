@@ -1,6 +1,7 @@
 .toprow {
     display: flex;
     background-image: url("/images/fiction/toprowbg.png");
+    background-size: 900px 507px;
     margin-left: auto;
     margin-right: auto;
     width: 75%;
@@ -19,7 +20,7 @@
     width: 75%;
     background-image: url("/images/fiction/bottomrowbg.png");
     max-height: 25%;
-    min-height: 20%
+    min-height: 20%;
 }
 
 .story1 {
@@ -27,7 +28,7 @@
     min-height: 200px;
     margin-right: 10px;
     min-width: 250px;
-    max-width: 400px;
+    max-width: 300px;
     padding: 10px;
     border-radius: 5px;
     
@@ -36,7 +37,7 @@
 .story2 {
     background-color: rgba(72, 39, 112, 75%);
     margin-right: 10px;
-    max-width: 200px;
+    max-width: 300px;
     padding: 10px;
     border-radius: 5px;
     color: rgba(220, 220, 222, 75%);
@@ -47,7 +48,8 @@
 }
 
 .story3 {
-    max-width: 500px;
+    max-width: 300px;
     min-width: 250px;
-    background-color: rgba(166, 110, 46, 75%)
+    background-color: rgba(166, 110, 46, 75%);
+    border-radius: 5px;
 }
