@@ -6,8 +6,9 @@
     max-width: 50%;
     margin-bottom: 25px;
     gap: 2px;
-    border: 3px solid red;
-    }
+    
+}
+
 .intoonce {
     background-color: rgba(17, 84, 35, 75%);
     border-radius: 5px;
@@ -16,8 +17,13 @@
     grid-area: 1 / 1 / span 2 / span 2;
     padding: 10px;
     text-align: justify;
+    color: rgba(220, 220, 222, 75%);
 
-    
+   
+}
+
+#onceheader {
+    text-align: center;
 }
 
 .remainder {
@@ -45,6 +51,19 @@
     margin-top: 10px;
     height: 150px;
     grid-area: 3 / 1 / span 2 / span 2;
+    color: black;
+
+}
+
+.hightight {
+    grid-area: 4 / 1 / span 2 / span 2;
+    width: 45%;
+    background-color: rgba(0, 32, 32, 0.75);
+    padding: 10px;
+    text-align: justify;
+    color: rgba(220, 220, 222, 75%);
+    border-radius: 5px;
+
 }
 
 .wwhy {
@@ -53,14 +72,7 @@
     background-color: rgba(107, 31, 26, 75%);
     border-radius: 5px;
     text-align: center;
-}
-
-.hightight {
-    grid-area: 4 / 1 / span 2 / span 2;
-    width: 45%;
-    background-color: rgba(68, 150, 149, 75%);
-    padding: 10px;
-    text-align: justify;
+    color: rgba(220, 220, 222, 75%);
 
 }
 
@@ -71,7 +83,9 @@
     padding: 10px;
     margin-top: 10px;
     height: 150px;
-    background-color: rgba(179, 181, 54, 75%);
+    background-color: rgb(207, 209, 107);
+    color: black;
+
   
 }
 
