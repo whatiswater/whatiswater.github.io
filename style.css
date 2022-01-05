@@ -29,7 +29,7 @@ body {
 
 .navandcontent {
     display: grid;
-    grid-template: 900 px 50px / 75px 900px;
+    grid-template: 150px 50px / 250px 900px;
     width: 75%;
 }
 
@@ -41,6 +41,7 @@ body {
     background-color: rgba(162, 168, 219, 75%);
     padding: 10px;
     margin-left: 10px;
+    border-radius: 5px;
 }
 
 a {
@@ -54,7 +55,10 @@ a {
     width: 50%;
     font-family: 'EB Garamond', serif;
     font-size: 14pt;
-    grid-area: 1 / 2 / span 7 / span 2               
+    grid-area: 1 / 2 / span 7 / span 2;
+    background-color: rgba(221, 222, 237, 75%);
+    padding: 10px;
+    border-radius: 5px;               
 }
 
 #title {
