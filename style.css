@@ -30,6 +30,7 @@ body {
 .navandcontent {
     display: grid;
     grid-template: 900 px 50px / 75px 900px;
+    width: 75%;
 }
 
 .links {
