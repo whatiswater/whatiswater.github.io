@@ -1,47 +1,51 @@
 body {
     font-family: Georgia;
     background-color: #b6b7db;
-    
+    display: grid;
+
 }
 
-footer {
-    text-align: center;
+.toptext {
+    display: grid;
+    grid-template: 50px 40px 350px / 1440px;
 }
 
 .name {
     font-family: 'Oswald', sans-serif;
     font-size: 20pt;
+    grid-area: 1 / 1 / 3 / span 1;
+
     }
 
 .logline {
     font-family: 'Oswald', sans-serif;
     font-size: 17pt;
     font-weight: 300;
+    grid-area: 2 / 1 / 3 / span 1;
     
 }
 
-.name, 
-.logline,
 .banner {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: left;
+    grid-area: 3 / 1 / span 3 / span 2;
+}
+
+.navandcontent {
+    display: grid;
+    grid-template: 900 px 50px / 75px 900px;
+}
+
+.links {
+    grid-area: 1 / 1 / 1 / 1;
+    font-family: 'Oswald', sans-serif;
+    font-size: 17pt;
+    font-weight: normal;
+    background-color: rgba(162, 168, 219, 75%);
+    padding: 10px;
+    margin-left: 
 }
 
 a {
     color: navy;
-}
-
-.navlinks {
-    width: 50%;
-    top: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    font-family: 'EB Garamond', serif;
-    font-size: 20pt;
-        
 }
 
 .content {
@@ -51,7 +55,7 @@ a {
     width: 50%;
     font-family: 'EB Garamond', serif;
     font-size: 14pt;
-               
+    grid-area: 1 / 2 / span 7 / span 2               
 }
 
 #title {
@@ -59,28 +63,6 @@ a {
     width: 75%;
     }
 
-.toprow {
-    display: flex;
-    justify-content: space-between;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-}
-
-.bottomrow {
-    display: flex;
-    justify-content:space-between;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-}
-
-.story1 {
-    background-color: rgba(17, 84, 35, 75%);
-    min-height: 200px;
-}
-
-.story2 {
-    background-color: rgba(72, 39, 112, 75%);
-    
-}
+footer {
+        text-align: center;
+    }
