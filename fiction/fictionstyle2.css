@@ -36,6 +36,10 @@ a.storylink:hover {
     color: white;
 }
 
+#more {
+    text-decoration: underline;
+}
+
 #onceheader {
     text-align: center;
 }
