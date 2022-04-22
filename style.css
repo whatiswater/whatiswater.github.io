@@ -45,7 +45,7 @@ body {
 }
 
 a {
-    color: navy;
+    text-decoration: none;
 }
 
 .content {
