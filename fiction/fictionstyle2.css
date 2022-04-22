@@ -26,6 +26,16 @@
     background-color: rgba(17, 84, 35, 100%);
 }
 
+a.storylink {
+    color:rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    transition: color 700ms ease-in;
+}
+
+a.storylink:hover {
+    color: white;
+}
+
 #onceheader {
     text-align: center;
 }
