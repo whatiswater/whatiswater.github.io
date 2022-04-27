@@ -27,6 +27,10 @@ body {
     grid-area: 3 / 1 / span 3 / span 2;
 }
 
+.breadcrumbs {
+    text-align: center;
+}
+
 .navandcontent {
     display: grid;
     grid-template: 150px 50px / 250px 900px;
@@ -34,6 +38,7 @@ body {
 }
 
 .links {
+    display: grid;
     grid-area: 1 / 1 / 1 / 1;
     font-family: 'Oswald', sans-serif;
     font-size: 17pt;
@@ -46,6 +51,7 @@ body {
 
 
 .content {
+    display: grid;
     color: black;
     margin-left: auto;
     margin-right: auto;
@@ -67,5 +73,7 @@ body {
 
 footer {
         text-align: center;
+        
+
     }
     
