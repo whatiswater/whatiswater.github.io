@@ -31,6 +31,10 @@ body {
     text-align: center;
 }
 
+#crumb:hover {
+    color: #c9f2ec;
+}
+
 .navandcontent {
     display: grid;
     grid-template: 150px 50px / 250px 900px;
@@ -47,6 +51,14 @@ body {
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px;
+}
+
+a {
+    color: #383140;
+}
+
+a:hover {
+    color: #e6e1eb;
 }
 
 
