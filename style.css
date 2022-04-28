@@ -29,8 +29,8 @@ body {
 
 .breadcrumbs {
     text-align: center;
-    display: flex;
     justify-content: center;
+    max-width: 50%;
 }
 
 #crumb:hover {
@@ -41,6 +41,7 @@ body {
     display: grid;
     grid-template: 150px 50px / 250px 900px;
     width: 75%;
+    margin-bottom: 25px;
 }
 
 .links {
@@ -77,7 +78,8 @@ a:hover {
     padding: 15px;
     border-radius: 5px;
     text-indent: 50px;
-    text-align: justify;               
+    text-align: justify; 
+
 }
 
 #title {
@@ -88,6 +90,5 @@ a:hover {
 footer {
         text-align: center;
         
-
     }
     
