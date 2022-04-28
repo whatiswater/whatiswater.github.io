@@ -41,7 +41,7 @@ body {
     display: grid;
     grid-template: 150px 50px / 250px 900px;
     width: 75%;
-    margin-bottom: 25px;
+    margin-bottom: 100px;
 }
 
 .links {
