@@ -42,6 +42,7 @@ body {
     grid-template: 150px 50px / 250px 900px;
     width: 75%;
     margin-bottom: 100px;
+    width: 75%;
 }
 
 .links {
@@ -59,8 +60,10 @@ body {
 }
 
 .embed {
-    display: flex;
-    align-items: center;
+    display: inline;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 a {
@@ -91,7 +94,7 @@ a:hover {
 
 #title {
     color: black;
-    width: 75%;
+    width: 100%;
     text-align: center;
     }
 
