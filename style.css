@@ -24,9 +24,9 @@ body {
 }
 
 .banner {
-    grid-area: 3 / 1 / span 3 / span 2;
+    grid-area: 2 / 1 / span 3 / span 2;
     margin: 0 auto;
-    max-width: 75%;
+    
 }
 
 .breadcrumbs {
@@ -45,6 +45,7 @@ body {
     width: 75%;
     margin-bottom: 100px;
     width: 75%;
+    margin: 0 auto;
 }
 
 .links {
