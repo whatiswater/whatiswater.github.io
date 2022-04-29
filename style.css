@@ -58,6 +58,11 @@ body {
     
 }
 
+.embed {
+    display: flex;
+    align-items: center;
+}
+
 a {
     color: #383140;
 }
@@ -87,6 +92,7 @@ a:hover {
 #title {
     color: black;
     width: 75%;
+    text-align: center;
     }
 
 footer {
