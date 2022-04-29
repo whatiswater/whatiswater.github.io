@@ -46,7 +46,7 @@ body {
 
 .links {
     display: grid;
-    grid-area: 1 / 1 / 1 / 1;
+    grid-area: 1 / 1 / 2 / 2;
     font-family: 'Oswald', sans-serif;
     font-size: 17pt;
     font-weight: normal;
@@ -54,6 +54,8 @@ body {
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px;
+    height: 225px;
+    
 }
 
 a {
@@ -89,6 +91,6 @@ a:hover {
 
 footer {
         text-align: center;
-        
+              
     }
     
