@@ -5,7 +5,7 @@ body {
 
 .banner {
     margin: 0 auto;
-    width: 75%;
+    width: 1050px;
     height: 350px;
     }
 
@@ -37,12 +37,14 @@ body {
     background-color: rgba(162, 168, 219, 75%);
     padding: 10px;
     margin-left: 10px;
-    
     border-radius: 5px;
+    width: 15%;
     height: 225px;
     position: fixed;
     
 }
+
+
 
 .embed {
     display: inline;
