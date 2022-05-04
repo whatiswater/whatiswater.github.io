@@ -41,7 +41,12 @@ body {
     width: 15%;
     height: 225px;
     position: fixed;
+    text-align: center;
     
+}
+
+.hands {
+    margin-top: 15px;
 }
 
 

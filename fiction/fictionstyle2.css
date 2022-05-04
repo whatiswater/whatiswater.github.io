@@ -1,7 +1,7 @@
 .grid {
     display: grid;
    grid-template: repeat(6, 200px) / 275px 275px 685px;
-    margin-left: 75%;
+    margin-left: 250px;
     margin-right: auto;
     max-width: 50%;
     margin-bottom: 100px;
