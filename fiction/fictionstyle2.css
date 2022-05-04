@@ -1,7 +1,7 @@
 .grid {
     display: grid;
    grid-template: repeat(6, 200px) / 275px 275px 685px;
-    margin-left: 250px;
+    margin-left: 260px;
     margin-right: auto;
     max-width: 50%;
     margin-bottom: 100px;
@@ -131,7 +131,7 @@ a.storylink:hover {
 
 .nudgenudge:hover {
     background-color: rgb(145, 129, 58, 100%);
-    
+
 }
 
 
