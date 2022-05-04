@@ -30,13 +30,14 @@ body {
 
 .links {
     display: grid;
-    grid-area: 1 / 1 / 2 / 2;
+    grid-area: 1 / 1 / 1 / 1;
     font-family: 'Oswald', sans-serif;
     font-size: 17pt;
     font-weight: normal;
     background-color: rgba(162, 168, 219, 75%);
     padding: 10px;
     margin-left: 10px;
+    
     border-radius: 5px;
     height: 225px;
     position: fixed;
