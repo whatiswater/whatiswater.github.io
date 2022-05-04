@@ -24,7 +24,6 @@ body {
     grid-template: 150px 50px / 250px 900px;
     width: 75%;
     margin-bottom: 100px;
-    width: 75%;
     margin: 0 auto;
 }
 
@@ -38,7 +37,7 @@ body {
     padding: 10px;
     margin-left: 10px;
     border-radius: 5px;
-    width: 15%;
+    width: 250px;
     height: 225px;
     position: fixed;
     text-align: center;
@@ -92,6 +91,6 @@ a:hover {
 
 footer {
         text-align: center;
-              
+             
     }
     
