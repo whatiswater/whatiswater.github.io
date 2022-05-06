@@ -12,7 +12,10 @@ body {
 .breadcrumbs {
     text-align: center;
     justify-content: center;
-    max-width: 50%;
+    max-width: 76%;
+    font-family: "EB Garamond";
+    position: fixed;
+    font-weight: 500;    
 }
 
 #crumb:hover {
