@@ -1,9 +1,9 @@
 .grid {
     display: grid;
-   grid-template: repeat(6, 200px) / 275px 275px 685px;
+   grid-template: repeat(6, 200px) / 375px 275px 685px;
     margin-left: 400px;
     margin-right: auto;
-    max-width: 50%;
+    max-width: 75%;
     margin-bottom: 100px;
     gap: 2px;
     
