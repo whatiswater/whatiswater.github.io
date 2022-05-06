@@ -12,7 +12,7 @@ body {
 
 .navandcontent {
     display: grid;
-    grid-template: 150px 50px / 250px 900px;
+    grid-template: 1000px 1000px / 25% 75%;
     width: 75%;
     margin-bottom: 100px;
     margin: 0 auto;
