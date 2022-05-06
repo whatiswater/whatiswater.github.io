@@ -9,18 +9,6 @@ body {
     height: 350px;
     }
 
-.breadcrumbs {
-    text-align: center;
-    justify-content: center;
-    max-width: 76%;
-    font-family: "EB Garamond";
-    position: fixed;
-    font-weight: 500;    
-}
-
-#crumb:hover {
-    color: #c9f2ec;
-}
 
 .navandcontent {
     display: grid;
