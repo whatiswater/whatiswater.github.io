@@ -1,0 +1,28 @@
+Colors:
+
+1) Royal Purple
+#70458F
+rgba (112, 69, 143, 56)
+
+2) Lavender
+#C5A7DB
+rgba (197, 167, 219, 86)
+
+3) Powder Blue (Base Color)
+#538ADB
+rgba (83, 138, 219, 86)
+
+4) Forest Green
+#288F67
+rgba (40, 143, 103, 56)
+
+5) Minty Green
+#48DBA2
+rgba (72, 219, 162, 86)
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(274, 34, 41, 1); }
+.My-Color-Theme-2-hsla { color: hsla(274, 41, 75, 1); }
+.My-Color-Theme-3-hsla { color: hsla(215, 65, 59, 1); }
+.My-Color-Theme-4-hsla { color: hsla(156, 56, 35, 1); }
+.My-Color-Theme-5-hsla { color: hsla(157, 67, 57, 1); }
