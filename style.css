@@ -1,10 +1,10 @@
 nav {
     background-color: rgba(112, 69, 143, 56);
-    text-align: right;
+    text-align: center;
     padding: 10px;
     height: 75px;
     border-radius: 5px;
-    width:75%;
+    width:50%;
     margin: 0 auto;
 }
 
@@ -12,7 +12,8 @@ h2 {
     color: rgba(233, 233, 233);
     display: inline-block;
     background-color: rgba(83, 138, 219, 86);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
@@ -30,10 +31,11 @@ h2:hover {
 
 .banner {
     padding: 10px;
-    background-color: rgba(40, 143, 103, 56);
-    border-radius: 2px;
-    width: 75%;
+    border-radius: 20px;
+    width: 50%;
     margin: 10px auto 0px auto;
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(40,143,103,0.56) 50%, rgba(251,251,251,1) 100%);
     
 }
 
